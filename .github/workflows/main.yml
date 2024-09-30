@@ -32,8 +32,6 @@ jobs:
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
-          lxc: true
-          lxc-patch: true
           kvm: true
           ksu: false
           ksu-version: main
